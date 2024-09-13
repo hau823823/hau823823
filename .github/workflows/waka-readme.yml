@@ -1,8 +1,6 @@
 name: Waka Readme
 
 on:
-  create:
-  push:
   schedule: # execute every 12 hours
     - cron: '* */12 * * *'
   workflow_dispatch:
