@@ -1,3 +1,6 @@
 [![](https://raw.githubusercontent.com/hau823823/hau823823/master/profile-summary-card-output/react/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/hau823823/hau823823/master/profile-summary-card-output/react/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hau823823/hau823823/master/profile-summary-card-output/react/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/hau823823/hau823823/master/profile-summary-card-output/react/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hau823823/hau823823/master/profile-summary-card-output/react/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![wakatime](https://wakatime.com/badge/user/4cbce86c-7ed5-4556-993b-65ac4a3f47ef.svg)](https://wakatime.com/@4cbce86c-7ed5-4556-993b-65ac4a3f47ef)  
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hau823823)](https://github.com/anuraghazra/github-readme-stats)
