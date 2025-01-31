@@ -30,16 +30,16 @@ Sunday                   73 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Go                       42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-exchange-server          42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -55,5 +55,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2025 18:21:03 UTC
+ Last Updated on 31/01/2025 18:39:08 UTC
 <!--END_SECTION:waka-->
