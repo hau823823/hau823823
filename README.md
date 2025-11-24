@@ -30,16 +30,16 @@ Sunday                   73 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       18 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+zonewallet-lending-bot   18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -55,5 +55,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/11/2025 18:29:13 UTC
+ Last Updated on 24/11/2025 18:53:17 UTC
 <!--END_SECTION:waka-->
