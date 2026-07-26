@@ -30,27 +30,27 @@ Sunday                   184 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 11 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   40.65 % 
-Java                     9 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   32.92 % 
-Other                    1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-JSON                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-Bash                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Markdown                 11 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   41.49 % 
+Java                     8 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   31.47 % 
+Other                    1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Bash                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 
 🔥 Editors: 
-Cursor                   13 hrs 5 mins       ████████████░░░░░░░░░░░░░   46.24 % 
-Claude Code              10 hrs 20 mins      █████████░░░░░░░░░░░░░░░░   36.48 % 
-Codex CLI                4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-VS Code                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Cursor                   12 hrs 33 mins      ███████████░░░░░░░░░░░░░░   45.22 % 
+Claude Code              10 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   37.14 % 
+Codex CLI                4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+VS Code                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🐱‍💻 Projects: 
-bitgo                    11 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   40.56 % 
-Knowledge                8 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   30.79 % 
-tsg-exchange-service     4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-zonewallet               1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-java                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+bitgo                    11 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   41.63 % 
+Knowledge                8 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   31.42 % 
+tsg-exchange-service     4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+zonewallet               1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+java                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 💻 Operating System: 
-Mac                      28 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -66,5 +66,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 13:19:13 UTC
+ Last Updated on 26/07/2026 19:08:15 UTC
 <!--END_SECTION:waka-->
