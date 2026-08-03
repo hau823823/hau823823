@@ -32,41 +32,41 @@ Sunday                   184 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 15 hrs 26 mins      █████████████░░░░░░░░░░░░   52.31 % 
-Java                     4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Java Properties          1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Makefile                 1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Other                    1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Markdown                 15 hrs 26 mins      █████████████░░░░░░░░░░░░   52.45 % 
+Java                     4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Java Properties          1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Makefile                 1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Other                    1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🔥 Editors: 
-Cursor                   14 hrs 11 mins      ████████████░░░░░░░░░░░░░   48.06 % 
-Claude Code              8 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   29.99 % 
-Codex CLI                6 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+Cursor                   14 hrs 6 mins       ████████████░░░░░░░░░░░░░   47.92 % 
+Claude Code              8 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.07 % 
+Codex CLI                6 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
 VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-tsg-exchange-service     10 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   35.77 % 
-Knowledge                10 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   35.46 % 
-bitgo                    6 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-tsg-exchange-app         34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-script                   28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+tsg-exchange-service     10 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   35.86 % 
+Knowledge                10 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   35.55 % 
+bitgo                    6 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+tsg-exchange-app         34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+script                   28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 💻 Operating System: 
-Mac                      29 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 48 mins (87.4%)
+⏱ AI Coding Time: 25 hrs 43 mins (87.37%)
 
 ✍️ 29,578 lines written by AI, 483 lines written by hand (98.39% AI-written)
 
-🔤 380,742,724 Input Tokens, 3,307,297 Output Tokens
+🔤 380,554,236 Input Tokens, 3,299,744 Output Tokens
 
-💵 $1666.22 Estimated AI Cost This Week
+💵 $1665.54 Estimated AI Cost This Week
 
-🧠 88 AI Sessions, 308 AI Prompts
+🧠 86 AI Sessions, 299 AI Prompts
 
 Opus                     11,221 lines        ███████████░░░░░░░░░░░░░░   42.05 % 
 GPT                      5,928 lines         ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
@@ -76,8 +76,8 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.39% of written lines came from AI
-📚 Verbose Prompter — average 4,634 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 3,751 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 4.88% of changed lines were hand-edited
 ```
 
@@ -94,5 +94,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 19:08:19 UTC
+ Last Updated on 03/08/2026 02:41:10 UTC
 <!--END_SECTION:waka-->
