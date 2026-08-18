@@ -32,54 +32,54 @@ Sunday                   184 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 12 hrs 49 mins      ████████████░░░░░░░░░░░░░   48.91 % 
-Java                     5 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-Go                       1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-Other                    1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-Dart                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Markdown                 8 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   40.01 % 
+Java                     5 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+Go                       1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Other                    1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Dart                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 🔥 Editors: 
-Cursor                   10 hrs 4 mins       ██████████░░░░░░░░░░░░░░░   38.42 % 
-Claude Code              10 hrs 4 mins       ██████████░░░░░░░░░░░░░░░   38.37 % 
-Agent                    3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Codex CLI                2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Codex Vscode             16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Cursor                   8 hrs 56 mins       ███████████░░░░░░░░░░░░░░   43.89 % 
+Claude Code              7 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.37 % 
+Codex CLI                2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Agent                    1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-tsg-exchange-service     13 hrs 20 mins      █████████████░░░░░░░░░░░░   50.85 % 
-bitgo                    4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Knowledge                4 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-tsg-exchange-app         2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-zonewallet               2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+tsg-exchange-service     10 hrs 19 mins      █████████████░░░░░░░░░░░░   50.66 % 
+bitgo                    3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+tsg-exchange-app         2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+zonewallet               2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Knowledge                1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
 
 💻 Operating System: 
-Mac                      26 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 53 mins (83.42%)
+⏱ AI Coding Time: 16 hrs 28 mins (80.78%)
 
-✍️ 7,601 lines written by AI, 421 lines written by hand (94.75% AI-written)
+✍️ 4,712 lines written by AI, 414 lines written by hand (91.92% AI-written)
 
-🔤 12,070,350 Input Tokens, 2,163,399 Output Tokens
+🔤 9,730,148 Input Tokens, 1,753,619 Output Tokens
 
-💵 $267.42 Estimated AI Cost This Week
+💵 $223.21 Estimated AI Cost This Week
 
-🧠 92 AI Sessions, 397 AI Prompts
+🧠 72 AI Sessions, 314 AI Prompts
 
-Opus                     5,786 lines         ██████████████████░░░░░░░   71.11 % 
-GPT                      1,759 lines         █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-Fable                    592 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Opus                     3,203 lines         ███████████████░░░░░░░░░░   61.08 % 
+GPT                      1,449 lines         ███████░░░░░░░░░░░░░░░░░░   27.63 % 
+Fable                    592 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.75% of written lines came from AI
-📚 Verbose Prompter — average 6,026 characters per prompt
+🤖 AI-Driven — 91.92% of written lines came from AI
+📚 Verbose Prompter — average 6,316 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 7.42% of changed lines were hand-edited
+🚀 High AI Trust — 10.91% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -95,5 +95,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 18:36:45 UTC
+ Last Updated on 18/08/2026 19:14:09 UTC
 <!--END_SECTION:waka-->
