@@ -32,52 +32,48 @@ Sunday                   184 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Java                     3 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   37.28 % 
-Markdown                 2 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.33 % 
-Java Properties          48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-XML                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Markdown                 2 hrs               █████████████░░░░░░░░░░░░   53.61 % 
+Java                     55 mins             ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+Other                    27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Python                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 11 mins       ███████████░░░░░░░░░░░░░░   44.40 % 
-Cursor                   2 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.97 % 
-Codex CLI                1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Agent                    56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Claude Code              3 hrs 1 min         ████████████████████░░░░░   80.51 % 
+Cursor                   26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Codex CLI                16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🐱‍💻 Projects: 
-tsg-exchange-service     8 hrs 41 mins       ███████████████████████░░   91.98 % 
-agents                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-codebase-analysis-doc    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-references               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-bitgo                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+tsg-exchange-service     3 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 37 mins (91.36%)
+⏱ AI Coding Time: 3 hrs 31 mins (93.67%)
 
-✍️ 3,199 lines written by AI, 9 lines written by hand (99.72% AI-written)
+✍️ 2,810 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,828,875 Input Tokens, 1,692,829 Output Tokens
+🔤 5,045,944 Input Tokens, 1,295,436 Output Tokens
 
-💵 $125.64 Estimated AI Cost This Week
+💵 $100.02 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 173 AI Prompts
+🧠 11 AI Sessions, 32 AI Prompts
 
-Opus                     1,902 lines         ██████████████░░░░░░░░░░░   54.64 % 
-GPT                      1,046 lines         ████████░░░░░░░░░░░░░░░░░   30.05 % 
-Fable                    533 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Opus                     1,902 lines         ███████████████░░░░░░░░░░   61.91 % 
+GPT                      637 lines           █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+Fable                    533 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.72% of written lines came from AI
-📚 Verbose Prompter — average 7,444 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.52% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,581 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -93,5 +89,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 09:40:56 UTC
+ Last Updated on 28/08/2026 21:44:39 UTC
 <!--END_SECTION:waka-->
