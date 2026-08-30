@@ -32,47 +32,46 @@ Sunday                   184 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 2 hrs               █████████████░░░░░░░░░░░░   53.61 % 
-Java                     55 mins             ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
-Other                    27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Python                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Markdown                 1 hr 13 mins        ███████████░░░░░░░░░░░░░░   45.98 % 
+Java                     41 mins             ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
+Other                    23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Python                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 1 min         ████████████████████░░░░░   80.51 % 
-Cursor                   26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Codex CLI                16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Claude Code              2 hrs 14 mins       █████████████████████░░░░   84.65 % 
+Codex CLI                16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Cursor                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🐱‍💻 Projects: 
-tsg-exchange-service     3 hrs 45 mins       █████████████████████████   100.00 % 
+tsg-exchange-service     2 hrs 39 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 45 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 31 mins (93.67%)
+⏱ AI Coding Time: 2 hrs 39 mins (99.89%)
 
-✍️ 2,810 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,277 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,045,944 Input Tokens, 1,295,436 Output Tokens
+🔤 4,325,332 Input Tokens, 1,079,412 Output Tokens
 
-💵 $100.02 Estimated AI Cost This Week
+💵 $86.93 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 32 AI Prompts
+🧠 6 AI Sessions, 23 AI Prompts
 
-Opus                     1,902 lines         ███████████████░░░░░░░░░░   61.91 % 
-GPT                      637 lines           █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-Fable                    533 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Opus                     1,902 lines         ███████████████████░░░░░░   74.91 % 
+GPT                      637 lines           ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,581 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 208 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -89,5 +88,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 16:05:34 UTC
+ Last Updated on 30/08/2026 20:37:10 UTC
 <!--END_SECTION:waka-->
