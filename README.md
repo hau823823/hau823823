@@ -32,47 +32,22 @@ Sunday                   184 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 1 hr 13 mins        ███████████░░░░░░░░░░░░░░   45.98 % 
-Java                     41 mins             ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
-Other                    23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Python                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              2 hrs 14 mins       █████████████████████░░░░   84.65 % 
-Codex CLI                16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Cursor                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Codex CLI                0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tsg-exchange-service     2 hrs 39 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 39 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 39 mins (99.89%)
-
-✍️ 2,277 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 4,325,332 Input Tokens, 1,079,412 Output Tokens
-
-💵 $86.93 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 23 AI Prompts
-
-Opus                     1,902 lines         ███████████████████░░░░░░   74.91 % 
-GPT                      637 lines           ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 208 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -88,5 +63,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 19:16:23 UTC
+ Last Updated on 01/09/2026 03:41:57 UTC
 <!--END_SECTION:waka-->
